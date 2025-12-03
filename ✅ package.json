@@ -1,0 +1,12 @@
+{
+  "name": "vercel-expenses-app",
+  "version": "1.0.0",
+  "description": "Expense Tracker using Vercel Serverless API",
+  "scripts": {
+    "start": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["vercel", "expenses", "api"],
+  "license": "MIT",
+  "dependencies": {}
+}
